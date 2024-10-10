@@ -103,8 +103,8 @@
               <li class="nav-item">
                 <a href="widgets.html">
                   <i class="fas fa-desktop"></i>
-                  <p>Widgets</p>
-                  <span class="badge badge-success">4</span>
+                  <p>Home</p>
+                  <span class="badge badge-success">2</span>
                 </a>
               </li>
               <li class="nav-item">
