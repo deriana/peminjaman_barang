@@ -7,7 +7,7 @@
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>Corona Admin</title>
+    <title>Peminjaman Barang</title>
     <!-- plugins:css -->
     <link
         rel="stylesheet"
@@ -42,8 +42,8 @@
         <nav class="sidebar sidebar-offcanvas" id="sidebar">
             <div
                 class="sidebar-brand-wrapper d-none d-lg-flex align-items-center justify-content-center fixed-top">
-                <a class="sidebar-brand brand-logo" href="index.html"><img src="assets/images/ziebook.png" alt="logo" /></a>
-                <a class="sidebar-brand brand-logo-mini" href="index.html"><img src="assets/images/zb.png" alt="logo" /></a>
+                <a class="sidebar-brand brand-logo" href="index.html"><img src="assets/images/logo.svg" alt="logo" /></a>
+                <a class="sidebar-brand brand-logo-mini" href="index.html"><img src="assets/images/logo-mini.svg" alt="logo" /></a>
             </div>
             <ul class="nav">
                 <li class="nav-item profile">
@@ -118,11 +118,11 @@
                     </a>
                 </li>
                 <li class="nav-item menu-items">
-                    <a class="nav-link" href="pages/forms/basic_elements.html">
+                    <a class="nav-link" href="barang_inventaris.php">
                         <span class="menu-icon">
                             <i class="mdi mdi-book"></i>
                         </span>
-                        <span class="menu-title">List Buku</span>
+                        <span class="menu-title">Barang Inventaris</span>
                     </a>
                 </li>
                 <li class="nav-item menu-items">
@@ -130,7 +130,7 @@
                         <span class="menu-icon">
                             <i class="mdi mdi-book-open-page-variant"></i>
                         </span>
-                        <span class="menu-title">Buku Saya</span>
+                        <span class="menu-title">Peminjaman Barang</span>
                     </a>
                 </li>
                 <li class="nav-item menu-items">
@@ -146,27 +146,7 @@
                         <span class="menu-icon">
                             <i class="mdi mdi-book-plus"></i>
                         </span>
-                        <span class="menu-title">Tambah Buku</span>
-                    </a>
-                </li>
-                <li class="nav-item menu-items">
-                    <a
-                        class="nav-link"
-                        href="http://www.bootstrapdash.com/demo/corona-free/jquery/documentation/documentation.html">
-                        <span class="menu-icon">
-                            <i class="mdi mdi-cart"></i>
-                        </span>
-                        <span class="menu-title">Keranjang</span>
-                    </a>
-                </li>
-                <li class="nav-item menu-items">
-                    <a
-                        class="nav-link"
-                        href="http://www.bootstrapdash.com/demo/corona-free/jquery/documentation/documentation.html">
-                        <span class="menu-icon">
-                            <i class="mdi mdi-account"></i>
-                        </span>
-                        <span class="menu-title">Users</span>
+                        <span class="menu-title">Referensi</span>
                     </a>
                 </li>
             </ul>
